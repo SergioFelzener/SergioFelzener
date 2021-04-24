@@ -8,16 +8,16 @@
 :computer: Programming languages ans Skills: 
 <p>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </p>
 
 
