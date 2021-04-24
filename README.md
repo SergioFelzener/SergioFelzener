@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:felzenerdj@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioFelzener&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=github-readme-stats)](https://github.com/SergioFelzener/record)
+
 
 :computer: Programming languages ans Skills: 
 <p>
