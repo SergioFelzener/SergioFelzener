@@ -6,6 +6,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-felzener-2454aa1a5/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:felzenerdj@gmail.com)
 
+- 🔭 I’m currently working on "Receiv.it" 
+- 🌱 I’m currently learning GoLang🤓.
+- 👯 I’m looking to collaborate on PHP and RaspiberryPi projects🤝.
+- 💬 Ask me about anything😁.
+
+<br />
+
 ![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioFelzener&show_icons=true&theme=radical)
 
 
