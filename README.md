@@ -14,13 +14,11 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Sample-Store-Laravel&theme=radical)](https://github.com/SergioFelzener/Sample-Store-Laravel)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=kotlin-app&theme=cobalt)](https://github.com/SergioFelzener/kotlin-app)
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Self-Study&theme=prussian)](https://github.com/Itsbeenalongday/Self-Study)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Assignments&theme=tokyonight)](https://github.com/Itsbeenalongday/Assignments)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Reference&theme=vue-dark)](https://github.com/Itsbeenalongday/Reference)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Of-one-s-own-script&theme=chartreuse-dark)](https://github.com/Itsbeenalongday/Of-one-s-own-script)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Opensources-for-study&theme=material-palenight)](https://github.com/Itsbeenalongday/Opensources-for-study) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=GoProject&theme=great-gatsby)](https://github.com/SergioFelzener/GoProject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Kanban-Tailwind-CSS&theme=blue-green)](https://github.com/SergioFelzener/Kanban-Tailwind-CSS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=TSIPi4senac&theme=prussian)](https://github.com/SergioFelzener/TSIPi4senac)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=CRUD-rpg-PHP&theme=tokyonight)](https://github.com/SergioFelzener/CRUD-rpg-PHP)
+
 
 </div>
 
