@@ -8,21 +8,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioFelzener&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=github-readme-stats)](https://github.com/SergioFelzener/record)
 
-## My achievements
-
-<div align=center>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Sample-Store-Laravel&theme=radical)](https://github.com/SergioFelzener/Sample-Store-Laravel)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=kotlin-app&theme=cobalt)](https://github.com/SergioFelzener/kotlin-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=GoProject&theme=great-gatsby)](https://github.com/SergioFelzener/GoProject)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Kanban-Tailwind-CSS&theme=blue-green)](https://github.com/SergioFelzener/Kanban-Tailwind-CSS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=TSIPi4senac&theme=prussian)](https://github.com/SergioFelzener/TSIPi4senac)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=CRUD-rpg-PHP&theme=tokyonight)](https://github.com/SergioFelzener/CRUD-rpg-PHP)
-
-
-</div>
-
-
 :computer: Programming languages ans Skills: 
 <p>
 <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
@@ -38,11 +23,24 @@
 <img width="4%" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">
-
-
-
-
 </p>
+
+## My achievements
+
+<div align=center>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Sample-Store-Laravel&theme=radical)](https://github.com/SergioFelzener/Sample-Store-Laravel)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=kotlin-app&theme=cobalt)](https://github.com/SergioFelzener/kotlin-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=GoProject&theme=great-gatsby)](https://github.com/SergioFelzener/GoProject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Kanban-Tailwind-CSS&theme=blue-green)](https://github.com/SergioFelzener/Kanban-Tailwind-CSS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=TSIPi4senac&theme=prussian)](https://github.com/SergioFelzener/TSIPi4senac)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=CRUD-rpg-PHP&theme=tokyonight)](https://github.com/SergioFelzener/CRUD-rpg-PHP)
+
+
+</div>
+
+
+
 
 
 
