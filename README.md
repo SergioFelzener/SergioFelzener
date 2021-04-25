@@ -30,6 +30,9 @@
 <img width="12%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
 <img width="4%" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
 </p>
 
