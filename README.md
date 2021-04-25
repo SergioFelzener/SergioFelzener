@@ -21,12 +21,12 @@
 <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-<img width="16%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
+<img width="8%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/xbox/xbox-ar21.svg">
