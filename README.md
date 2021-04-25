@@ -12,7 +12,7 @@
 
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=TSIPI2020&theme=radical)](https://github.com/SergioFelzener/TSIPI2020)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Sample-Store-Laravel&theme=radical)](https://github.com/SergioFelzener/Sample-Store-Laravel)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=kotlin-app&theme=cobalt)](https://github.com/SergioFelzener/kotlin-app)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Machine-Learning&theme=great-gatsby)](https://github.com/Itsbeenalongday/Machine-Learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=System&theme=blue-green)](https://github.com/Itsbeenalongday/System)
