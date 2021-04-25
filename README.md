@@ -39,6 +39,8 @@
 
 </div>
 
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=SergioFelzener.SergioFelzener) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
 
 
 
