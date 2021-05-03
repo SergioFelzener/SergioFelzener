@@ -43,11 +43,10 @@
 <div align=center>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Sample-Store-Laravel&theme=radical)](https://github.com/SergioFelzener/Sample-Store-Laravel)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=kotlin-app&theme=cobalt)](https://github.com/SergioFelzener/kotlin-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=GoProject&theme=great-gatsby)](https://github.com/SergioFelzener/GoProject)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=Kanban-Tailwind-CSS&theme=blue-green)](https://github.com/SergioFelzener/Kanban-Tailwind-CSS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=TSIPi4senac&theme=prussian)](https://github.com/SergioFelzener/TSIPi4senac)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioFelzener&repo=CRUD-rpg-PHP&theme=tokyonight)](https://github.com/SergioFelzener/CRUD-rpg-PHP)
+
 
 
 </div>
