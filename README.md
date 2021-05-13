@@ -16,7 +16,7 @@
 ![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioFelzener&show_icons=true&theme=radical)
 
 
-:computer: Programming languages ans Skills: 
+:computer: Programming languages ans Skills 
 <p>
 <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
