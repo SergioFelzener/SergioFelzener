@@ -12,8 +12,19 @@
 - 💬 Ask me about anything😁.
 
 <br />
+<div>
 
-![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioFelzener&show_icons=true&theme=radical)
+
+  <div style="display: inline_block">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
+</div>
 
 
 :computer: Programming languages ans Skills 
@@ -31,11 +42,11 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
+<img width="12%" margim-buttom="5%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg">
 <img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img width="6%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
+<img width="8%" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
 </p>
 
 ## My achievements git :
