@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on "Receiv.it" 
 - 🌱 I’m currently learning GoLang🤓.
-- 👯 I’m looking to collaborate on PHP and Raspiberry Pi projects🤝.
+- 👯 I’m looking to collaborate on PHP and Raspiberry Pi projects.
 
 
 <br />
