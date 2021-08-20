@@ -49,7 +49,7 @@
 <img width="8%" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
 </p>
 
-## My achievements git :
+## My achievements github :
 
 <div align=center>
 
