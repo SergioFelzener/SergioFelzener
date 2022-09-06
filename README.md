@@ -14,7 +14,7 @@
 <br />
 
 
-:computer: Programming languages ans Skills ! 
+:computer: Programming languages and Skills ! 
 <p>
 <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
