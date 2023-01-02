@@ -25,7 +25,7 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+<img width="7%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
