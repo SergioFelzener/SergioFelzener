@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on "Receiv.it" 
 - 🌱 I’m currently learning Python🤓.
 - 👯 I’m looking to collaborate on Exploits, CVE's, and Raspiberry Pi projects.
-- 💻 I’m finish learning Ethical Hacking and Pentest Skill's (Certificade By Solyd Offensive Security and Técnicas de Invasão)
+- 💻 I’m finish learning Ethical Hacking and Pentest Skill's (Certificade By Solyd Offensive Security and TDI Ethical Hacking course)
 - 📄 [Solyd Certificate Pentest Professional](https://solyd.com.br/verificar/7uHmJfHgn1/)
 - 📄 [Ethical Hacking TDI Certificate](https://credsverse.com/credentials/fbdb17db-a3c5-4ee9-808c-4814d9ab801b)
 
