@@ -32,6 +32,7 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg">
 <img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img width="6%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+<img width="8%" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/owasp.svg">
 <img width="8%" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
 </p>
 
