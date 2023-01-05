@@ -18,6 +18,8 @@
 
 
 :computer: Programming languages and Skills ! 
+
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 <p>
 <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
@@ -35,7 +37,7 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg">
 <img width="6%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img width="6%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-<img width="8%" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/owasp.svg">
+<img width="8%" style="margin-left: 100px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/owasp.svg">
 <img width="8%" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
 </p>
 
