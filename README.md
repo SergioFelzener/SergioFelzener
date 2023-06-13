@@ -41,6 +41,11 @@
 <img width="8%" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg">
 </p>
 
+<div align="center">
+  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=SergioFelzener&show_icons=true&theme=radical" />
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFelzener&show_icons=true&theme=radical" />
+</div>
+
 ## My achievements github :
 
 <div align=center>
